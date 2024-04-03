@@ -21,8 +21,9 @@ A. Data Manipulation
 B. Merging Process
 C. EDA Colab Files
 
-Colab Files
-General Datasets
+# Colab Files
+
+# General Datasets
 Daily Datasets
 Hourly Datasets
 Minute Datasets
@@ -32,7 +33,8 @@ Minute Datasets Merge
 Daily EDA
 Hourly EDA
 Minute EDA
-Panda Profiles
+
+# Panda Profiles
 HTML Files
 Daily Activity
 Hourly Activity
