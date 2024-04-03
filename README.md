@@ -17,11 +17,11 @@ Hourly
 Minute
 
 Colab Files
-A. Data Manipulation
-B. Merging Process
-C. EDA Colab Files
+1. Data Manipulation
+2. Merging Process
+3. EDA Colab Files
 
-# Colab Files
+
 
 # General Datasets
 1. Daily Datasets
