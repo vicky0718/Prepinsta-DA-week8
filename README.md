@@ -11,7 +11,7 @@ The merged datasets offer a rich source of insights, paving the way for detailed
 01. Raw CSV
 02. Clean CSV
 03. Merged CSV
-4. 
+   
 Daily
 Hourly
 Minute
@@ -24,18 +24,18 @@ C. EDA Colab Files
 # Colab Files
 
 # General Datasets
-Daily Datasets
-Hourly Datasets
-Minute Datasets
-Daily Datasets Merge
-Hourly Datasets Merge
-Minute Datasets Merge
-Daily EDA
-Hourly EDA
-Minute EDA
+1. Daily Datasets
+2. Hourly Datasets
+3. Minute Datasets
+4. Daily Datasets Merge
+5. Hourly Datasets Merge
+6. Minute Datasets Merge
+7. Daily EDA
+8. Hourly EDA
+9. Minute EDA
 
 # Panda Profiles
-HTML Files
-Daily Activity
-Hourly Activity
-Minute Activity
+1. HTML Files
+2. Daily Activity
+3. Hourly Activity
+4. Minute Activity
